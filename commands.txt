@@ -14,3 +14,5 @@ rl    javascript:function%20iprl5(){var%20d=document,z=d.createElement('scr'+'ip
 qt    javascript:void(location.href='http://quietube.com/v.php/'+location.href)    quietube: Video without the distractions
 
 pb    javascript:if(document.getSelection){s=document.getSelection();}else{s='';};document.location='http://pinboard.in/add?next=same&url='+encodeURIComponent(location.href)+'&description='+encodeURIComponent(s)+'&title='+encodeURIComponent(document.title)    Pinboard - antisocial bookmarking
+
+down  http://downforeveryoneorjustme.com/%d   Is this site down for everyone or just me?
