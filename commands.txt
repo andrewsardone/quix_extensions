@@ -18,3 +18,5 @@ pb    javascript:if(document.getSelection){s=document.getSelection();}else{s='';
 down  http://downforeveryoneorjustme.com/%d   Is this site down for everyone or just me?
 
 wfont   javascript:(function(){document.body.appendChild(document.createElement('scr'+'ipt')).setAttribute('src', 'http://chengyinliu.com/wf.js')})();   WhatFont: http://chengyinliu.com/whatfont.html
+
+apstest  javascript:alert('TEST');    just testing live updates
