@@ -16,3 +16,5 @@ qt    javascript:void(location.href='http://quietube.com/v.php/'+location.href) 
 pb    javascript:if(document.getSelection){s=document.getSelection();}else{s='';};document.location='http://pinboard.in/add?next=same&url='+encodeURIComponent(location.href)+'&description='+encodeURIComponent(s)+'&title='+encodeURIComponent(document.title)    Pinboard - antisocial bookmarking
 
 down  http://downforeveryoneorjustme.com/%d   Is this site down for everyone or just me?
+
+wfont javascript:(function(){document.body.appendChild(document.createElement('scr'+'ipt')).setAttribute('src', 'http://chengyinliu.com/wf.js')})();"   WhatFont: http://chengyinliu.com/whatfont.html
