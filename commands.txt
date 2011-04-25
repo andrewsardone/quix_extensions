@@ -19,4 +19,6 @@ down  http://downforeveryoneorjustme.com/%d   Is this site down for everyone or 
 
 wfont   javascript:(function(){document.body.appendChild(document.createElement('scr'+'ipt')).setAttribute('src', 'http://chengyinliu.com/wf.js')})();   WhatFont: http://chengyinliu.com/whatfont.html
 
+huff    javascript:var%20w=window.open('http://huffduffer.com/add?popup=true&page='+encodeURIComponent(location.href),'huffduff','scrollbars=1,status=0,resizable=1,location=0,toolbar=0,width=360,height=480');    huffduffer.com
+
 apstest  javascript:alert('TEST');    just testing live updates
